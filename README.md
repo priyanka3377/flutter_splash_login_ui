@@ -1,6 +1,23 @@
-# my_sample_app
+Flutter Splash & Login UI
 
-A new Flutter project.
+A beginner Flutter project created while learning Flutter basics.
 
-I recently started learning Flutter Development and made a simple splash screen and a login page UI.
-Learnt a lot of new things while building this simple UI.
+## Features
+- Splash Screen
+- Login Screen UI
+- Navigation between screens
+- TextFields and Buttons
+
+## Technologies Used
+- Flutter
+- Dart
+
+## Learning Goals
+- Understanding widgets
+- StatefulWidget
+- Navigation
+- Layout design
+
+## Screens
+- Splash Screen
+- Login Screen
